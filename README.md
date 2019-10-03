@@ -32,4 +32,5 @@ The collapsable list above was created by the code you see below.
 
 You will be adding to the list by adding a new line to the list. In the code above:
 
-* __*__ creates a bulleted list item.
+* An asterisk (__*__) at the beginning of a line creates a bulleted list item.
+* Links consist of the clickable text inside of square brackets ([ and ]). The URL (the web address that the link takes you to is in parentheses imediately after the square brackets.
