@@ -32,4 +32,4 @@ The collapsable list above was created by the code you see below.
 
 You will be adding to the list by adding a new line to the list. In the code above:
 
-* ***** creates a bulleted list item.
+* __*__ creates a bulleted list item.
