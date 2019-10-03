@@ -1,5 +1,5 @@
 ---
-# remote_theme: douglasurner/canvas
+remote_theme: douglasurner/canvas
 ---
 
 # Class Repositories
