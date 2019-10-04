@@ -8,7 +8,7 @@ remote_theme: douglasurner/canvas
   <summary>1st Block</summary>
   
   * [Douglas U.](https://github.com/DouglasUrner)
-  
+  * [Dionte H.](https://github.com/K-dion)
 </details>
 
 <details>
@@ -31,3 +31,4 @@ remote_theme: douglasurner/canvas
   * [Douglas U.](https://github.com/DouglasUrner)
 
 </details>
+
