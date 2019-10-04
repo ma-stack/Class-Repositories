@@ -30,7 +30,7 @@ The collapsable list above was created by the code you see below.
 </details>
 ```
 
-You will be adding your GitHub repository to the list. To do this add a line for yourself, in alphabetical order by last name. In the code above:
+You will be adding your GitHub repository to the list. To do this add a line for yourself, in **alphabetical order by last name**. In the code above:
 
 * An asterisk (__*__) at the beginning of a line creates a bulleted list item.
 * Links consist of the clickable text inside of square brackets ([ and ]). The URL (the web address that the link takes you to is in parentheses imediately after the square brackets.
