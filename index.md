@@ -15,6 +15,7 @@ remote_theme: douglasurner/canvas
 <details>
   <summary>4th Block</summary>
   
+  * [Madison A.](https://github.com/wowitsmadiao)
   * [Douglas U.](https://github.com/DouglasUrner)
   
 </details>
