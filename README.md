@@ -1,8 +1,11 @@
 # Class Repositories
 
-This document, and the file that you will be editing – **index.md** – are written in a [markup language][markup] called [Markdown][markdown]. The language is a superset of HTML (the language for creating web pages) that is easier to write and read. You can use HTML in a Markdown file. HTML code is enclosed in angle brackets (**&lt;** and **&gt;**).
+This document, and the file that you will be editing – **index.md** – are written in a [markup language][markup] called [Markdown][gfm]. The language is a superset of HTML (the language for creating web pages) that is easier to write and read. You can use HTML in a Markdown file. HTML code is enclosed in angle brackets (**&lt;** and **&gt;**).
 
 Check out what happens when you click on the text "1st Block" below. You'll be adding to a similar section of code in **index.md**.
+
+[markup]: <https://en.wikipedia.org/wiki/Markup_language>
+[markdown]: <https://en.wikipedia.org/wiki/Markdown>
 
 ---
 
