@@ -35,6 +35,6 @@ remote_theme: douglasurner/canvas
   <summary>7th Block</summary>
   
   * [Douglas U.](https://github.com/DouglasUrner)
-  * https://github.com/ShadowCharmer21
+  * [Kayden W.](https://github.com/ShadowCharmer21)
 </details>
 
