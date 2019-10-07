@@ -34,6 +34,7 @@ remote_theme: douglasurner/canvas
 <details>
   <summary>7th Block</summary>
   
+  * [Jeremiah L.](https://github.com/lens5753)
   * [Douglas U.](https://github.com/DouglasUrner)
 
 </details>
