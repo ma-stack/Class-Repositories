@@ -33,6 +33,7 @@ remote_theme: douglasurner/canvas
 
 <details>
   <summary>7th Block</summary>
+  
   * [Riley F.](https://github.com/RileyForsland)
   * [Ian H.](https://github.com/MKDreadSword)
   * [Benimyn H.](https://github.com/benjimyn)
