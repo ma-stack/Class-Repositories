@@ -36,6 +36,6 @@ remote_theme: douglasurner/canvas
   
   * [Jeremiah L.](https://github.com/lens5753)
   * [Douglas U.](https://github.com/DouglasUrner)
-
+  * [Kayden W.](https://github.com/ShadowCharmer21)
 </details>
 
