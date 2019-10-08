@@ -7,6 +7,7 @@ remote_theme: douglasurner/canvas
 <details>
   <summary>1st Block</summary>
   
+  * [Leah B.](https://github.com/LarielBird)
   * [Dionte H.](https://github.com/K-dion)
   * [Courtney S.](https://github.com/stasio9884)
   * [Douglas U.](https://github.com/DouglasUrner)
