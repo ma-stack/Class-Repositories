@@ -10,6 +10,7 @@ remote_theme: douglasurner/canvas
   * [Dionte H.](https://github.com/K-dion)
   * [Courtney S.](https://github.com/stasio9884)
   * [Douglas U.](https://github.com/DouglasUrner)
+  
 </details>
 
 <details>
