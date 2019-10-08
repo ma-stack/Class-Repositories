@@ -38,8 +38,10 @@ remote_theme: douglasurner/canvas
   * [Benimyn H.](https://github.com/benjimyn)
   * [Ian H.](https://github.com/MKDreadSword)
   * [Jeremiah L.](https://github.com/lens5753)
+  * [Maximus M.](https://github.com/Merc4952)
   * [Douglas U.](https://github.com/DouglasUrner)
   * [Kayden W.](https://github.com/ShadowCharmer21)
   * [Theron P.](https://github.com/Stampers)
+  
 </details>
 
