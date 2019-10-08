@@ -4,6 +4,9 @@ This document, and the file that you will be editing – **index.md** – are wr
 
 Check out what happens when you click on the text "1st Block" below. You'll be adding to a similar section of code in **index.md**.
 
+[markup]: <https://en.wikipedia.org/wiki/Markup_language>
+[markdown]: <https://en.wikipedia.org/wiki/Markdown>
+
 ---
 
 <details>
@@ -30,7 +33,7 @@ The collapsable list above was created by the code you see below.
 </details>
 ```
 
-You will be adding to the list by adding a new line to the list. In the code above:
+You will be adding your GitHub repository to the list. To do this add a line for yourself, in **alphabetical order by last name**. In the code above:
 
 * An asterisk (__*__) at the beginning of a line creates a bulleted list item.
 * Links consist of the clickable text inside of square brackets ([ and ]). The URL (the web address that the link takes you to is in parentheses imediately after the square brackets.
